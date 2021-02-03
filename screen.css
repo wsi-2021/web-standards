@@ -13,3 +13,6 @@ html {
   line-height: 22px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.js {
+  border-top: 11px solid red;
+}
